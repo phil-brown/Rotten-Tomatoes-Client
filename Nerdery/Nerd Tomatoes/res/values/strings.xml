@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Nerd Tomatoes</string>
+    <string name="rotten_tomatoes_api_key">rotten_tomatoes_key</string>
+    <string name="twitter_api_key">twitter_api_key</string>
+    <string name="cancel">Cancel</string>
+    <string name="tweet">Tweet</string>
+
+</resources>

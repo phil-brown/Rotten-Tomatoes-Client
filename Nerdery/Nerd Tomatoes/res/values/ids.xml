@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ID's used for AbLE Layout files -->
+    <item type="id" name="listview" />
+    <item type="id" name="imageparent" />
+    <item type="id" name="rating" />
+    <item type="id" name="critic_score" />
+    <item type="id" name="movie_title" />
+    <item type="id" name="placeholder" />
+    <item type="id" name="label_synopsis" />
+    <item type="id" name="synopsis" />
+    <item type="id" name="label_cast" />
+    <item type="id" name="cast" />
+    <item type="id" name="horizontal_line" />
+    <item type="id" name="footer" />
+    <item type="id" name="overlay_twitter" />
+    <item type="id" name="web" />
+    <item type="id" name="tweeter" />
+
+</resources>
