@@ -2,7 +2,7 @@
 
 ====================
 
-This simple Android application provides a great working example of [AbLE](phil-brown.github.io/AbLE/),
+This simple Android application provides a great working example of [AbLE](http://phil-brown.github.io/AbLE/),
 the *Annotation-based Layout Engine* for Android.
 
 This was originally a code challenge for a job application. I did not get the job (probably because I wanted
